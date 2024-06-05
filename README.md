@@ -1,18 +1,32 @@
-# 42Cursus_solong
+# So_Long
+Overview
+So_Long is a 2D game developed as part of my studies at [Your School/University Name]. This project showcases my skills in C programming, game development, and the use of graphics libraries. Achieving a final note of 100, this project demonstrates a high level of proficiency and attention to detail.
 
-Description:
+##Features
+2D Graphics: Developed using the [graphics library you used, e.g., MinilibX], the game features simple yet engaging visuals.
+Game Mechanics: Includes essential game mechanics such as character movement, collision detection, and level progression.
+Custom Levels: Designed to allow the creation and integration of custom levels, enhancing replayability.
+User Interface: Simple and intuitive user interface for an enjoyable gaming experience.
+##Installation
+1. Clone the repository:
+```bash
+   git clone https://github.com/yourusername/so_long.git
+2. Navigate to the project directory:
+```bash
+cd so_long
+3. Compile the project:
+bash
+make
+4. Run the game:
+bash
+./so_long [path_to_level_file]
+5. Usage
+Arrow Keys: Move the character.
+ESC: Exit the game.
+Screenshots
 
-- Developed a captivating 2D game titled "So_Long" as part of a programming project, utilizing the Minilibx library for graphic rendering. This project showcases a blend of graphic design principles, user interaction, and efficient game loop implementation. The Minilibx library was integral in creating a visually immersive experience, handling window creation, image rendering, and user interface elements.
-
-Key Achievements:
-
-- Graphics Programming Proficiency: Successfully implemented complex graphics elements and animations using the Minilibx library, demonstrating a deep understanding of graphics programming.
-
-- User Interface Design: Designed an intuitive and visually appealing user interface, incorporating player controls seamlessly into the game environment for an immersive user experience.
-
-- Problem-Solving Skills: Overcame unique challenges associated with graphical applications, showcasing adaptability and problem-solving skills in the realm of game development.
-
-Technologies:
-
-- C language
-- Minilibx library for graphics rendering
+##Achievements
+Final Note: 100: This project was evaluated and received a perfect score, highlighting its quality and completeness.
+##Acknowledgements
+Special thanks to my instructors and peers who provided guidance and support throughout the development of this project.
+[Graphics Library] for providing the tools necessary to create the game visuals
