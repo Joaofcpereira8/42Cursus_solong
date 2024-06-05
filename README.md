@@ -29,7 +29,8 @@ make
 - ESC: Exit the game.
 
 ## Achievements
-Final Note: 100: This project was evaluated and received a perfect score, highlighting its quality and completeness.
+Final Note: 100
+This project was evaluated and received a perfect score, highlighting its quality and completeness.
 
 ## Acknowledgements
 Special thanks to my colleagues and peers who provided guidance and support throughout the development of this project.
