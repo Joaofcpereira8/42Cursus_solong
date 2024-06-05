@@ -14,20 +14,23 @@ So_Long is a 2D game developed as part of my studies at [Your School/University 
    git clone https://github.com/yourusername/so_long.git
 ```
 2. Navigate to the project directory:
-bash
+```bash
 cd so_long
+```
 3. Compile the project:
-bash
+```bash
 make
+```
 4. Run the game:
-bash
+```bash
 ./so_long [path_to_level_file]
+```
 5. Usage
-Arrow Keys: Move the character.
-ESC: Exit the game.
+```Arrow Keys: Move the character.```
+```ESC: Exit the game.```
 Screenshots
 
-##Achievements
+## Achievements
 Final Note: 100: This project was evaluated and received a perfect score, highlighting its quality and completeness.
 ##Acknowledgements
 Special thanks to my instructors and peers who provided guidance and support throughout the development of this project.
