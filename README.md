@@ -36,4 +36,4 @@ This project was evaluated and received a perfect score, highlighting its qualit
 Special thanks to my colleagues and peers who provided guidance and support throughout the development of this project.
 
 ## Attention
-This project was made with the Minilibx library at the time, June 23, it may have some changes since then.
+This project was made with the Minilibx library at the time, 23 June 2023, it may have some changes since then.
